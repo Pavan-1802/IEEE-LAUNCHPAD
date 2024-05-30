@@ -24,11 +24,19 @@
 - My networking skills have been refined through active participation in tech events and community engagements. Attending such events has allowed me to connect with inspiring individuals and establish valuable professional relationships.
 - Additionally, my involvement in organizing DHISHNA, the tech fest at my college, and volunteering for events hosted by Mind Empowered, an NGO, has enabled me to engage with diverse communities and contribute to meaningful initiatives.
 - Moving forward, I plan to continue engaging with the community through industry forums, online communities, and local tech meetups.
+
 #### Career Plan:
 
 - In the short term, I'll actively engage in Kerala's startup events and networking opportunities, aiming to establish valuable connections and contribute insights.
-- Longer-term, I plan to launch my own startup addressing local needs, fostering innovation and economic growth.
+- Longer-term, I plan to launch my startup addressing local needs, fostering innovation and economic growth.
 - Additionally, I'll collaborate with universities, government agencies, and industry partners to support entrepreneurship and build a vibrant ecosystem.
+
+#### Technical Skills
+
+- HTML, CSS, JavaScript, TypeScript
+- Tailwind, Bootstrap
+- ReactJs, React Native, NextJS
+- Sanity
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
