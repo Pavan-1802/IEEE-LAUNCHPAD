@@ -1,9 +1,8 @@
-# Full Name 
+# Pavan S 
 
-### About Me
+### 2024 B.Tech Information Technology graduate
 
-> write about your self .................. (minimum 200 Characters)
-
+> I'm Pavan S, a 2024 graduate from Cochin University of Science and Technology with a B.Tech in Information Technology. My expertise lies in modern front-end frameworks like React.js and Next.js, and I'm currently immersing myself in backend development to broaden my skill set. My journey in the tech world extends beyond academics; I've served as a front-end developer and a student mentor at an Ed Tech startup, incubated within our university's innovation center. Throughout my college tenure, I actively contributed to various projects, one notable example being the website for our Department Students Association. Over the past two years, I've dedicated myself to learning and honing my front-end development skills, driven by a passion for innovation and collaboration. Now, equipped with a solid foundation and practical experience, I'm eager to embark on a dynamic career journey where I can leverage my expertise to make meaningful contributions to the ever-evolving tech industry.
 
 ## Portfolio Highlights
 
@@ -11,48 +10,27 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **SAIT**            | Official Website of the Students Association of IT Department SOE, CUSAT  | https://sait-opal.vercel.app    | https://github.com/DareDevilStudios/SAIT             |
+| **Evently**  | An Event Management website that can be used for advertising events for college organizations                                               | https://event-app-gilt.vercel.app/   | https://github.com/Pavan-1802/event-app             |
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- My tenure as the joint secretary of the Students Association of the Information Technology department, the branch association of students in my college, showcases my leadership and influencing skills. Organizing various events alongside my team, such as an edu fest, demanded effective coordination and teamwork.
+- Through meticulous planning, delegation, and motivation, I led the team to execute successful events, garnering positive feedback.
+- Additionally, my role as a student mentor at an Ed Tech startup allowed me to influence and guide fellow students, sharing my expertise to empower them in their academic pursuits.
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
-
+- My networking skills have been refined through active participation in tech events and community engagements. Attending such events has allowed me to connect with inspiring individuals and establish valuable professional relationships.
+- Additionally, my involvement in organizing DHISHNA, the tech fest at my college, and volunteering for events hosted by Mind Empowered, an NGO, has enabled me to engage with diverse communities and contribute to meaningful initiatives.
+- Moving forward, I plan to continue engaging with the community through industry forums, online communities, and local tech meetups.
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+- In the short term, I'll actively engage in Kerala's startup events and networking opportunities, aiming to establish valuable connections and contribute insights.
+- Longer-term, I plan to launch my own startup addressing local needs, fostering innovation and economic growth.
+- Additionally, I'll collaborate with universities, government agencies, and industry partners to support entrepreneurship and build a vibrant ecosystem.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
----
+- Kerala has great potential in tech startups. By encouraging new ideas and teamwork, we can boost innovation. Providing support like funding and guidance will help startups grow.
+- With investment in technology and talent, Kerala can become a leading hub for tech startups.
